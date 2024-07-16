@@ -1,4 +1,5 @@
 import os
+import zipfile
 from boxsdk import OAuth2, Client
 
 CLIENT_ID = 'ADD_CLIENT_ID'
